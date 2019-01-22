@@ -40,7 +40,7 @@ export default class Movie extends Component {
 
   render() {
     if (!this.state.movie) {
-      return <div>Loading movie information...</div>;
+      return <div>Movie information...</div>;
     }
 
     

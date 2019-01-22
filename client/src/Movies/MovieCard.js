@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from "react-router-dom";
-import Movie from "./Movie"
+
 
 class MovieCard extends React.Component{
   constructor(props) {
